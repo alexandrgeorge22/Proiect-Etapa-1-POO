@@ -1,6 +1,9 @@
-Alexandru George-Madalin 323CD
+# Energy-Management-System Phase I
 
-Proiect - Etapa 1 - Sistem energetic
+# Description
+This project represents a simulation of an energy management system.
+
+# Implementation RO:
 
 Pentru aceasta etapa a proiectului am decis sa construiesc 2 clase principale
 si anume :
